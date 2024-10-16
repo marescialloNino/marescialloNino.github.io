@@ -1,6 +1,7 @@
 AUTHOR = 'Nicola Schiavo'
 SITENAME = "Nicola Schiavo's Personal Website 🦎 🦐"
-SITEURL = ""
+SITEURL = 'https://maresciallonino.github.io'
+
 
 PATH = "content"
 
