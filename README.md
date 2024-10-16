@@ -1,7 +1,24 @@
 GUIDE TO DEPLOY
 
-# Regenerate the static site with production settings
+# Generate static files using Pelican
 pelican content -s publishconf.py
 
-# Deploy the generated output to the main branch of GitHub Pages
-ghp-import -n -p -f output
+# Switch to the main branch (deployment branch)
+git checkout main
+
+# Clean old files in the main branch (optional)
+git rm -rf .
+git commit -m "Clean old deployment"
+
+# Copy output files from the source branch to the main branch
+git checkout source -- output
+mv output/* .
+rm -rf output
+
+# Commit and push changes to GitHub
+git add .
+git commit -m "Deploy updated static files"
+git push origin main
+
+# Switch back to source branch for further development
+git checkout source
