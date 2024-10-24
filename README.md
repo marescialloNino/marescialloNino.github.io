@@ -1,5 +1,7 @@
 GUIDE TO DEPLOY
 
+# commit and push changes
+
 # Generate static files using Pelican
 pelican content -s publishconf.py
 
