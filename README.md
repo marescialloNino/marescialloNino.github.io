@@ -1,9 +1,11 @@
 GUIDE TO DEPLOY
 
-# commit and push changes
+
 
 # Generate static files using Pelican
 pelican content -s publishconf.py
+
+# commit and push changes
 
 # Switch to the main branch (deployment branch)
 git checkout main
