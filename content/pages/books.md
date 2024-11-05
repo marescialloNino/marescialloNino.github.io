@@ -2,14 +2,11 @@ Title: Books
 Date: 2024-10-01
 Category: Pages
 
-Here is a collection of books I liked or I'm currently reading.
+Here is a collection of books I liked.
 (Excluding technical books)
 
 ---
 
-### Books I liked
-
----
 ## 2024
 - *"Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time"* by Dava Sobel
 - *"The Man from the Future: The Visionary Life of John Von Neumann"* by Ananyo Bhattacharya
@@ -32,11 +29,14 @@ Here is a collection of books I liked or I'm currently reading.
 - *"Energy Transitions: Global and National Perspectives"* by Vaclav Smil
 - *"Feynman Lectures On Computation"* by Richard P. Feynman
 - *"Oil: A Beginner's Guide"* by Vaclav Smil
+- *"Spillover: Animal Infections and the Next Human Pandemic"* by David Quammen
+- *"1984"* by George Orwell
 - *"Technical Innovations and Their Consequences"* by Vaclav Smil
 - *"Power Density: A Key to Understanding Energy Sources and Uses"* by Vaclav Smil
 - *"The Art of Statistics: Learning from Data"* by David Spiegelhalter
 - *"Feynman's Lost Lecture: The Motions of Planets Around the Sun"* by David and Judith Goodstein
 - *"Why we sleep?"* by Matthew Walker
+- *"Animal Farm"* by George Orwell
 - *"Il sistema periodico"* by Primo Levi
 - *"Personaggi e scoperte della fisica. Da Galileo ai quark"* by Emilio Segrè
 - *"What Is the Name of This Book?: The Riddle of Dracula and Other Logical Puzzles"* by Raymond M. Smullyan
