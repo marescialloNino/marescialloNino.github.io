@@ -6,14 +6,17 @@ Here is a collection of books I liked.
 (Excluding technical books)
 
 ---
-
 ## 2025
+
+
 -*"The Changing World Order"* by Ray Dalio
 -*"Understanding Keynes' General Theory"* by Brendan Sheehan
 -*"The Code Book"* by Simon Singh
 -*"Genius-The life and science of Richard Feynman"* by James Gleic
-
+---
 ## 2024
+
+
 - *"Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time"* by Dava Sobel
 - *"The Man from the Future: The Visionary Life of John Von Neumann"* by Ananyo Bhattacharya
 - *"Thinking, Fast and Slow"* by Daniel Kahneman
