@@ -9,10 +9,10 @@ Here is a collection of books I liked.
 ## 2025
 
 
--*"The Changing World Order"* by Ray Dalio
--*"Understanding Keynes' General Theory"* by Brendan Sheehan
--*"The Code Book"* by Simon Singh
--*"Genius-The life and science of Richard Feynman"* by James Gleic
+- *"The Changing World Order"* by Ray Dalio
+- *"Understanding Keynes' General Theory"* by Brendan Sheehan
+- *"The Code Book"* by Simon Singh
+- *"Genius-The life and science of Richard Feynman"* by James Gleic
 ---
 ## 2024
 
