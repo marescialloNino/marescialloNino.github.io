@@ -9,7 +9,6 @@ Here is a collection of books I liked.
 ## 2025
 
 
-Douglas R. Hofstadter
 - *"Gödel, Escher, Bach: An Eternal Golden Braid"* by Douglas R. Hofstadter
 - *"A Mathematician's Apology "* by G.H. Hardy
 - *"The Changing World Order"* by Ray Dalio
