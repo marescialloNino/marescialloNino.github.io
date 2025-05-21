@@ -1,7 +1,7 @@
 Title: How to get better
 Date: 2025-03-17
 Category: Articles
-Tags: writing
+Tags: blog
 Summary: First article, why am I doing this website?
 
 ---

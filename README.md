@@ -1,6 +1,4 @@
-GUIDE TO DEPLOY
-
-
+# ========== GUIDE TO DEPLOY ==============
 
 # Generate static files using Pelican
 pelican content -s publishconf.py
