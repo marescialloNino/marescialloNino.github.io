@@ -26,6 +26,4 @@ at least until the limits of heuristic chess engines allow us 🤔... Later on w
 
 Code available at: https://github.com/Sammas41/FLK-Chess-Engine
 
----
-
 ![Alt Text]({static}/images/wizard.jpeg)
