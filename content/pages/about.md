@@ -11,4 +11,4 @@ I'm currently attending the Master of Science in Mathematical Engineering at the
 
 I'm trying to learn French.
 
-![Alt Text]({static}/images/life.jpeg))
+![Alt Text]({static}/images/life.jpeg)
