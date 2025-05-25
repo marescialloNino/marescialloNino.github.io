@@ -21,7 +21,7 @@ I think that we are living one of these big shifts in the level of abstraction o
 For the greek philosophers this big change was starting to write down stuff, it seems easy to us, but it was a new paradigm, and the result allowed to externalize thinking, have external storage that allowed people to work with more freedom, you no longer had to remember everything. I think about how many different things the brain of Socrates had to do, when writing down things was not the norm, probably some really incredible stuff, but the word was fleeting, and often lost or corrupted by the chain of people transmitting information. 
 A layer of abstraction was created over the oral transmission of informations, and this allowed to preserve, transmit, and build upon information and discoveries made in the past.
 
-------
+---
 From the book "The Information-A history, a theory, a flood":
 
 Plato, channeling the nonwriter Socrates, warned that this technology(writing) meant impoverishment:
@@ -29,7 +29,8 @@ Plato, channeling the nonwriter Socrates, warned that this technology(writing) m
 Their trust in writing, produced by external characters which are no part of themselves, will descourage the use of their own memory within them. You have invented an elixir not of memory, but of reminding and you offer your pupils the appearence of wisdom, not true wisdom."
 
 Writing appeared to draw knowledge away from the person, to place their memories in storage. It also separated the speaker from the listener, by so many miles or years. The deepest consequences of writing, could hardly be foreseen, but even Plato could see some power of this disconnection.
--------
+
+----
 
 Many layers, "disconnections" where added to the transmission of informations during history, and recently one more, LLMs. 
 Now we have abstracted human thinking to a very high level, with respect to informations, we no longer have to remember it (written word), we no longer have to go into other cities or countries to find it (telephones), we no longer have to spend a lot of effort (or go out of the house) to find it (the internet), and now, we don't even have to search for it, we can just ask one single question, and AI will take care of the rest, the only thing that remains to us is having the idea, what will the next step be?
