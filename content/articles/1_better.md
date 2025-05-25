@@ -6,8 +6,6 @@ Summary: First article, why am I doing this website?
 
 ---
 
-# How to get better
-
 I'm writing this just as a reminder and a resolution to myself on how to approach things, especially my studies and my work.
 
 I think that the most important part in learning something is (surprise surprise) to learn from your own errors; the problem, at least for me, is that most of the times when I'm learning a new topic, i don't even stop and try to understand my mistakes, i just go on and on without thinking about it, like a hamster running in his wheel, after a while, eventually, the patterns emerges, and my intuition starts to build up, but there is a much faster way to do this, stop, and try to individuate what I could do better. 

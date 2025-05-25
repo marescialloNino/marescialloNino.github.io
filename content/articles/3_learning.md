@@ -1,12 +1,10 @@
-Title: Like Thomas Hobbes
+Title: Like Thomas Hobbes 🔮
 Date: 2025-05-25
 Category: Articles
 Tags: blog
 Summary: Do you like the print or not?
 
 ---
-
-## Like Thomas Hobbes 🔮
 
 The punched cards, the cash register, the wires of the telgraph all played big parts in building the web of informations in which we live today.
 Each new information technology, in its time, makes storage and transmission technologies bloom, and each new one throws the others into relief.
