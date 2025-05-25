@@ -4,7 +4,7 @@ Category: Articles
 Tags: blog
 Summary: Informations are bit too much, it's best to go on TikTok
 
----
+---b
 
 I was reading in a book some stories of the phycisit Richard Feynman's childhood, and i read this part:
 
@@ -33,7 +33,7 @@ Having infinite possibilities brings somehow the mind to not being able to choos
 So for these and other reasons i think that especially in the information era, less is more, at least for me, that's why i don't want to use social networks, or the smartphone, it's because information has become meaningless, it costs nothing to share what you think with other people, and anybody can disseminate everything without even thinking about it. There's no incentive in thinking well and hard before sending something to someone, and the result is that we lose a lot of time, just because there is no cost in broadcasting new informations, and we don't think about the time other people spend because of this, i want to stop spending that time, and concentrate.
 
 
-
+![Alt Text]({static}/images/honest.jpeg)
 
 
 
