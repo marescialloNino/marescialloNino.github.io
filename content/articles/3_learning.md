@@ -6,7 +6,7 @@ Summary: Do you like the print or not?
 
 ---
 
-## Like Thomas Hobbes
+## Like Thomas Hobbes 🔮
 
 The punched cards, the cash register, the wires of the telgraph all played big parts in building the web of informations in which we live today.
 Each new information technology, in its time, makes storage and transmission technologies bloom, and each new one throws the others into relief.
@@ -22,6 +22,7 @@ For the greek philosophers this big change was starting to write down stuff, it 
 A layer of abstraction was created over the oral transmission of informations, and this allowed to preserve, transmit, and build upon information and discoveries made in the past.
 
 ---
+
 From the book "The Information-A history, a theory, a flood":
 
 Plato, channeling the nonwriter Socrates, warned that this technology(writing) meant impoverishment:
@@ -30,7 +31,7 @@ Their trust in writing, produced by external characters which are no part of the
 
 Writing appeared to draw knowledge away from the person, to place their memories in storage. It also separated the speaker from the listener, by so many miles or years. The deepest consequences of writing, could hardly be foreseen, but even Plato could see some power of this disconnection.
 
-----
+---
 
 Many layers, "disconnections" where added to the transmission of informations during history, and recently one more, LLMs. 
 Now we have abstracted human thinking to a very high level, with respect to informations, we no longer have to remember it (written word), we no longer have to go into other cities or countries to find it (telephones), we no longer have to spend a lot of effort (or go out of the house) to find it (the internet), and now, we don't even have to search for it, we can just ask one single question, and AI will take care of the rest, the only thing that remains to us is having the idea, what will the next step be?
