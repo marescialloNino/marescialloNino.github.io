@@ -16,6 +16,7 @@ I studied at university for five years, with decent results, applying this "meth
 I also think that in order to learn, we need to "put in the work", like in the physics meaning of the word "work", we need to spend energy, sweat, calories, and suffer a bit before grasping new concepts, it's not enough to read something, we need to confront ourselves with the problem, take down our misconceptions about it bit by bit, and spend time with it without understanding, the problem is that this can be done in a chaotic and unstructured way, or in a smart way, always thinking about optimization. As of now I'm on the chaotic side 100%, and changing how you approach stuff as an adult it's not easy, but I think it's worth at least a serious try.
 
 So from now on I will just impose to myself that for each and every task I'll take on in my working and studying life (too early to say I'll do it for everything) , I'll apply more critical thinking, more scientific method, more methodical precision in the process, and for every 45 minutes of learning/working on something, there will be 15 minutes of thinking about what it is that i read, if i understand it, if i would be able to explain it to someone else, if i find it interesting, and if there is a different way to do it, and if there is, at least try it and evaluate if it's going better or worse.
+---
 
 ![Alt Text]({static}/images/battles.jpeg)
 

@@ -38,6 +38,6 @@ Without the problems and the difficulties, the knowledge is superficial, and i s
 
 The question i make myself is, do we have invented the elixir of knowledge and intelligence? or is it just the appearence of knowledge and intelligence? And here I am not speaking of machines, but just from the humans POV.
 Am i like Thomas Hobbes? Grumping about the new stuff? Maybe! But i feel that that these new technologies carry a strong power of disconnection.
-
+---
 
 ![Alt Text]({static}/images/toothpasteai.jpeg)

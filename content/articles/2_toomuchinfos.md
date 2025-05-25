@@ -4,7 +4,7 @@ Category: Articles
 Tags: blog
 Summary: Informations are bit too much, it's best to go on TikTok
 
----b
+---
 
 I was reading in a book some stories of the phycisit Richard Feynman's childhood, and i read this part:
 
@@ -31,9 +31,6 @@ Or, to sum up my thoughts, as John Gleick wrote in "What just happend? a chronic
 I think about this a lot, and i feel it a lot, find myself navigating in useless endheavors, looking at things i don't wanna look at, or listening to stuff i don't care about. It's hard to give my unconditional attention to something.
 Having infinite possibilities brings somehow the mind to not being able to choose, or focus, and to just superficially touch things, without spending the time needed to get something out of it. 
 So for these and other reasons i think that especially in the information era, less is more, at least for me, that's why i don't want to use social networks, or the smartphone, it's because information has become meaningless, it costs nothing to share what you think with other people, and anybody can disseminate everything without even thinking about it. There's no incentive in thinking well and hard before sending something to someone, and the result is that we lose a lot of time, just because there is no cost in broadcasting new informations, and we don't think about the time other people spend because of this, i want to stop spending that time, and concentrate.
-
+---
 
 ![Alt Text]({static}/images/honest.jpeg)
-
-
-
