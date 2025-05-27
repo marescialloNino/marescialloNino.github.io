@@ -8,13 +8,13 @@ Here is a collection of books I liked.
 ---
 ## 2025
 
-
+- *"The Information - A History, a Theory, a Flood"* by James Gleick
 - *"Gödel, Escher, Bach: An Eternal Golden Braid"* by Douglas R. Hofstadter
 - *"A Mathematician's Apology "* by G.H. Hardy
 - *"The Changing World Order"* by Ray Dalio
 - *"Understanding Keynes' General Theory"* by Brendan Sheehan
 - *"The Code Book"* by Simon Singh
-- *"Genius-The life and science of Richard Feynman"* by James Gleic
+- *"Genius - The life and science of Richard Feynman"* by James Gleick
 ---
 ## 2024
 
