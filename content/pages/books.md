@@ -8,6 +8,7 @@ Here is a collection of books I liked.
 ---
 ## 2025
 
+- *"The Book of Why: the new science of cause and effect"* by Judea Pearl, Dana McKenzie
 - *"The Foundation Trilogy"* by Isaac Asimov
 - *"Your Brain On Porn"* by Gary Wilson
 - *"The Man who Mistook his Wife for a Hat"* by Gary Wilson
