@@ -12,7 +12,6 @@ Here is a collection of books I liked.
 - *"The Foundation Trilogy"* by Isaac Asimov
 - *"Your Brain On Porn"* by Gary Wilson
 - *"The Man who Mistook his Wife for a Hat"* by Gary Wilson
-- *"Your Brain On Porn"* by Gary Wilson
 - *"The Information - A History, a Theory, a Flood"* by James Gleick
 - *"Gödel, Escher, Bach: An Eternal Golden Braid"* by Douglas R. Hofstadter
 - *"A Mathematician's Apology "* by G.H. Hardy
