@@ -8,6 +8,8 @@ Here is a collection of books I liked.
 ---
 ## 2025
 
+- *"In Cold Blood"* by Truman Capote
+- *"Into Thin Air"* by Jon Krakauer
 - *"The Book of Why: the new science of cause and effect"* by Judea Pearl, Dana McKenzie
 - *"The Foundation Trilogy"* by Isaac Asimov
 - *"Your Brain On Porn"* by Gary Wilson
