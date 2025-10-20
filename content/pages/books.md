@@ -8,6 +8,7 @@ Here is a collection of books I liked.
 ---
 ## 2025
 
+- *"Broken Money"* by Lyn Alden
 - *"In Cold Blood"* by Truman Capote
 - *"Into Thin Air"* by Jon Krakauer
 - *"The Book of Why: the new science of cause and effect"* by Judea Pearl, Dana McKenzie
