@@ -8,7 +8,7 @@ Here is a collection of books I liked.
 ---
 ## 2026
 
-- *"The dream machine"* by M. Mitchell Waldrop
+- *"The Dream Machine"* by M. Mitchell Waldrop
 - *"Down and Out in Paris and London"* by George Orwell
 
 ---
