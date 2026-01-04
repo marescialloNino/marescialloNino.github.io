@@ -13,7 +13,7 @@ I like reading books, dogs, coding my own projects (every 3 months a new one, ab
 
 I work and live in Paris.
 
-I just finished the Master of Science in Mathematical Engineering at the University of Padua and Financial Engineering at ESILV in Paris, I have a Bachelor's degree in Electrical Engineering.
+I studied Electrical Engineering and Mathematical Engineering.
 
 I've worked two years as a software engineer and as a "quant", wetheaver that means.
 
