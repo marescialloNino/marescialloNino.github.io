@@ -15,7 +15,7 @@ I work and live in Paris.
 
 I studied Electrical Engineering and Mathematical Engineering.
 
-I've worked two years as a software engineer and as a "quant", wetheaver that means.
+I've worked two years as a software engineer and as a quant; Now I am working on Decentralized Finance research.
 
 I'm trying to learn French and I'm not really good at it.
 
