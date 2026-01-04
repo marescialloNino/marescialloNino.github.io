@@ -12,7 +12,7 @@ DEFAULT_LANG = 'en'
 ARTICLE_PATHS = ['articles']
 
 MENUITEMS = [
-    ('About', '/pages/about.html'),
+    ('About', '/'),
     ('Articles', '/category/articles.html'),  # Link to the category page for articles
     ('Books', '/pages/books.html'),
     ('Projects', '/pages/projects.html'),
@@ -40,3 +40,6 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
+
+# Do not generate the default article index at /
+DIRECT_TEMPLATES = ['tags', 'categories', 'archives']

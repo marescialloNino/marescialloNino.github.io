@@ -1,6 +1,8 @@
 Title: About
 Date: 2024-10-01
 Category: Pages
+URL: index.html
+Save_as: index.html
 
 Hi, I'm Nicola.
 In this website I share things about me and things that I find interesting, I'm trying to write more about these things.
