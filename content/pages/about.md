@@ -13,7 +13,7 @@ I work and live in Paris.
 
 I just finished the Master of Science in Mathematical Engineering at the University of Padua and Financial Engineering at ESILV in Paris, I have a Bachelor's degree in Electrical Engineering.
 
-I've worked two years as a software developer and one yer as a "quant", wetheaver that means.
+I've worked two years as a software engineer and as a "quant", wetheaver that means.
 
 I'm trying to learn French and I'm not really good at it.
 
