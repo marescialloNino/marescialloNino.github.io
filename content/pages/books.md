@@ -6,6 +6,12 @@ Here is a collection of books I liked.
 (Excluding technical books)
 
 ---
+## 2026
+
+- *"The dream machine"* by M. Mitchell Waldrop
+- *"Down and Out in Paris and London"* by George Orwell
+
+---
 ## 2025
 
 - *"Broken Money"* by Lyn Alden
